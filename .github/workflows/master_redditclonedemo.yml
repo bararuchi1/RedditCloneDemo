@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'RedditCloneDemo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CE1AD7109C4440BBA0D005422CCA329A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC9CCABCE3624B7B817F385B5034A31F }}
           package: '*.jar'
